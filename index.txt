@@ -1,0 +1,228 @@
+CozyNest - Handcrafted Fashion & Vintage Decor
+
+This is CozyNest - Handcrafted Fashion & Vintage Decor E-commerce Website made by codewithsadee
+
+=============== HEADER ===============
+
+<span class="material-symbols-rounded" aria-hidden="true">
+  close
+</span>
+
+Home
+Shop
+<ion-icon name="caret-forward-outline" aria-hidden="true" class="duration-200"></ion-icon>
+
+All Products
+Clothing
+Candles
+Accessories
+Bags
+Clocks
+SALE 🏷️
+
+Blog
+Latest
+Info
+
+<span class="material-symbols-rounded" aria-hidden="true">
+  shopping_cart_checkout
+</span>
+
+Handmade painted coffee mug
+1 ×
+$85.00
+
+<span class="material-symbols-rounded" aria-hidden="true">
+  close
+</span>
+
+Vintage Antique & Candle Holder
+1 ×
+$990.00
+
+check out
+view cart
+
+<span class="material-symbols-rounded" aria-hidden="true">
+  menu
+</span>
+
+=============== HERO ===============
+
+Welcome to vintage shop
+
+Handmade Fashion & Vintage Pieces
+
+Shop
+
+Trusted by :
+
+=============== PRODUCT SHOWCASE ===============
+
+Clothings
+954 Products
+
+Candles
+184 Products
+
+Accessories
+956 Products
+
+Clocks
+710 Products
+
+Bags
+710 Products
+
+=============== PRODUCT CATEGORIES ===============
+
+Our Product Categories
+
+Explore our curated popular collection product categories featuring high-quality.
+
+view products
+
+<ion-icon name="bag-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="eye-outline" aria-hidden="true"></ion-icon>
+
+Attire
+$25.75
+Artisanal designs that make every day a feast
+
+Jewellery
+Casual yet sophisticated pieces for every room in the house
+
+Decor
+Tasteful elements to mix and match for an elevated look
+
+Bag
+Artisanal designs that make every day a feast
+
+Wool Panda Bag
+Casual yet sophisticated pieces for every room in the house
+
+Decor
+Tasteful elements to mix and match for an elevated look
+
+Autumn aesthetic candles
+Tasteful elements to mix and match for an elevated look
+
+Candle
+Tasteful elements to mix and match for an elevated look
+
+Art Wall Frame
+Tasteful elements to mix and match for an elevated look
+
+Autumn leaf
+Tasteful elements to mix and match for an elevated look
+
+<ion-icon name="chevron-back-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+
+=============== BLOG ===============
+
+Handmade Decor: <br> The Power of Selling Online
+
+Discover how selling online can grow your handmade decor business.
+
+September 16-18, 2025 <br>
+Paragon One Plaza and Sky Garden
+
+Read more
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+=============== NEW ARRIVAL ===============
+
+New Arrival
+
+Discover the latest must-have arrivals! Elevate your style with our newest collection of trendsetting items.
+
+<ion-icon name="bag-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="eye-outline" aria-hidden="true"></ion-icon>
+
+Cable Roll Neck Sweater
+$25.75
+
+CableKnit Sweater
+
+Wool Panda Diary Cover
+
+45%
+Off
+All new Flower Vase
+See all products
+
+30%
+Off
+All new Arrival watch
+See all products
+
+Vintage Lace Hand Watch
+
+Boho crochet Earrings
+
+White Wool Panda Bag
+
+=============== TESTIMONIALS ===============
+
+Customer
+Reviews
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+
+Love It!
+
+“This scarf instantly became my go-to for chilly mornings. The red tartan is so rich and classic — it
+feels like something you'd borrow from your grandma's closet and never give back. Soft, warm, and full
+of quiet charm.”
+
+Emily T.
+Item purchased:
+Red Tartan Cashmere Scarf
+
+“I wasn’t expecting to love a scarf this much, but wow. The black tartan has that perfect balance of
+minimal and vintage. It feels luxurious without trying too hard — and it's unbelievably soft against
+the skin.”
+
+Hannah K.
+Black Tartan Cashmere Scarf
+
+“I didn’t expect much, but this candle surprised me. The frosted glass looks great on my shelf, and
+the soft glow is perfect for relaxing. The scent is subtle and calming — just right for my space.”
+
+Ethan V.
+Frosted Glass Scented Candles
+
+“This tote is everything I didn’t know I needed. The little embroidered bicycle and fall leaves?
+Adorable. It feels like something you’d find in a storybook — practical, but with a bit of poetry. I
+use it almost every day.”
+
+Sofia R.
+Fall Leaves Bicycle Handcrafted Tote Bag
+
+<ion-icon name="chevron-back-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+
+=============== FOOTER ===============
+
+Get in Touch
+
+Mailing Address
+123 Anywhere St., Any City, <br> State, Country 12345
+
+Email Address
+hello@reallygreatsite.com
+
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-github" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+
+Phone Number
+(123) 456 7890
+
+Copyright
+codewithsadee
+2025 | All rights reserved
